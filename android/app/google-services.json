@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082089304189",
+    "project_id": "vigilionx",
+    "storage_bucket": "vigilionx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082089304189:android:c62194c3faa935a540c114",
+        "android_client_info": {
+          "package_name": "com.vigilionx.vigilion_x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6cg3UFy30i1I1rZGkzC9iBhNkWTwGcV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
